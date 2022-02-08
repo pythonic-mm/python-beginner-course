@@ -31,6 +31,8 @@
       border-radius: 10px;
       max-width: 100%;
     }
+    img:hover {
+    }
   }
   &.center {
     justify-content: center;
@@ -59,5 +61,15 @@ body {
 }
 
 h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-align: center;
+}
+
+.btn {
+  margin: 5px;
+}
+
+img:hover {
+  transform: scale(0.9);
 }
