@@ -74,8 +74,9 @@ img:hover {
   text-align: center;
   text-decoration: underline;
   text-underline-offset: 0.3em;
-  img {
-    border-radius: 100%;
-    max-width: 1em;
-  }
+}
+
+#logo img {
+  border-radius: 100%;
+  width: 1em;
 }

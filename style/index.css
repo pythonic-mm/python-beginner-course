@@ -68,9 +68,10 @@ img:hover {
   text-decoration: underline;
   text-underline-offset: 0.3em;
 }
+
 #logo img {
   border-radius: 100%;
-  max-width: 1em;
+  width: 1em;
 }
 
 /*# sourceMappingURL=index.css.map */
